@@ -2,4 +2,4 @@
 <p>This program demonstrates an integer counting device within an optionally
 specified interval.</p>
 <br />
-<p>This is the most recent completed program in this course.</p>
+<p><em>This is the most recent completed program in this course.</em></p>
